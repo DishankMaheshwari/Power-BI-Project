@@ -6,3 +6,29 @@ A small company Axon, which is a retailer selling classic cars, is facing issues
 To address this issue, the company has decided to implement a Business Intelligence (BI) tool that can help them manage and analyze their sales data effectively. They have shortlisted Microsoft PowerBI and SQL as the BI tools for this project.
 
 The goal of the capstone project is to design and implement a BI solution using PowerBI and SQL that can help the company manage and analyze their sales data effectively. 
+
+Database Description:
+
+Here is a short description of the data tables included that contains typical business data such as customers, products, sales orders, sales order line items, etc.
+
+
+Database Schema
+
+The sample database schema consists of the following 8 tables:
+
+Customers: stores customer’s data.
+
+Products: stores a list of scale model cars.
+
+ProductLines: stores a list of product line categories.
+
+Orders: stores sales orders placed by customers.
+
+OrderDetails: stores sales order line items for each sales order.
+
+Payments: stores payments made by customers based on their accounts.
+
+Employees: stores all employee information as well as the organization structure such as who reports to whom.
+
+Offices: stores sales office data
+
